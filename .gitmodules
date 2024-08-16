@@ -1,0 +1,18 @@
+[submodule "cpp-exercise"]
+	path = cpp-exercise
+	url = https://partner-gitlab.mioffice.cn/nj-trainingcollege/miclassroom240812/cppgroup3/shuailei/cpp-exercise
+[submodule "cpp-first-day-service"]
+	path = cpp-first-day-service
+	url = https://partner-gitlab.mioffice.cn/nj-trainingcollege/miclassroom240812/cppgroup3/shuailei/cpp-first-day-service
+[submodule "cpp0813-classwork"]
+	path = cpp0813-classwork
+	url = https://partner-gitlab.mioffice.cn/nj-trainingcollege/miclassroom240812/cppgroup3/shuailei/cpp0813-classwork
+[submodule "cpp0814"]
+	path = cpp0814
+	url = https://partner-gitlab.mioffice.cn/nj-trainingcollege/miclassroom240812/cppgroup3/shuailei/cpp0814
+[submodule "cpp0815"]
+	path = cpp0815
+	url = https://partner-gitlab.mioffice.cn/nj-trainingcollege/miclassroom240812/cppgroup3/shuailei/cpp0815
+[submodule "cpp0816"]
+	path = cpp0816
+	url = https://partner-gitlab.mioffice.cn/nj-trainingcollege/miclassroom240812/cppgroup3/shuailei/cpp0816
